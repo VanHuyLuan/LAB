@@ -1,0 +1,93 @@
+
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.register-box {
+    margin: 100px auto;
+    width: 350px;
+}
+
+.register-logo {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.register-card-body {
+    padding: 20px;
+}
+
+.input-group.mb-3 input[type="text"], 
+.input-group.mb-3 input[type="email"], 
+.input-group.mb-3 input[type="password"] {
+    width: 90%; 
+}
+
+.login-box-msg {
+    font-size: 17px;
+    font-weight: none;
+}
+
+.form-control {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 5px 0;
+}
+
+.social-auth-links .btn {
+    display: block;
+    margin-bottom: 10px; 
+}
+
+.btn-primary {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 0px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+}
+
+.btn-danger {
+    background-color: #ff0702;
+    color: #fff;
+    border: none;
+    padding: 10px 0px;
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.btn-danger:hover {
+    background-color: #5a0a08;
+}
+
+.btn-block {
+    width: 100%;
+}
+
+.social-auth-links .btn {
+    margin: 10px 0;
+}
+
+.text-center {
+    text-align: center;
+}

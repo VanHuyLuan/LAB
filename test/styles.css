@@ -1,0 +1,33 @@
+
+/* Định dạng header */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Định dạng nút liên kết */
+a {
+    text-decoration: none;
+    color: #0078d4;
+}
+
+/* Định dạng nút liên kết khi di chuột qua */
+a:hover {
+    text-decoration: underline;
+}
+
+/* Định dạng phần thông tin chính */
+main {
+    padding: 10px;
+    color: #5c2d10;
+}
+
+/* Định dạng chân trang */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
